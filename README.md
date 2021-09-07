@@ -26,7 +26,7 @@
   
 </p>
 
-
+  ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato 📢
 
