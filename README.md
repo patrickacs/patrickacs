@@ -6,6 +6,8 @@
 - 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API
 
 
+</br>
+</br>
  <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
