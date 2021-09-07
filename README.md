@@ -5,6 +5,7 @@
 - 🤔 Estou procurando ajuda em CSS3/HTML5
 - 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API
 
+
  <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -21,6 +22,7 @@
   </a>
 </p>
 
+
 ## Skills 🎯
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -29,6 +31,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
+
+
 
 ## Contato 📢
 
