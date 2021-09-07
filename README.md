@@ -3,10 +3,10 @@
 - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° Semestre na Universidade de Brasília
 - 📚 Estou aprendendo Python
 - 🤔 Estou procurando ajuda em CSS3/HTML5
-- 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API
+- 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trickytheonlyone&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickytheonlyone&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
