@@ -34,5 +34,9 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pandersomm@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p align="center">
+    <a href="https://steamcommunity.com/profiles/76561197985226198/">
+        <img  src="https://img.shields.io/badge/steam-%23100000.svg?&style=for-the-badge&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/profiles/76561197985226198/">
+    </a>
 </p>
 
