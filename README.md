@@ -6,7 +6,9 @@
 - 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API 
 
 
-| <a href="https://github.com/trickytheonlyone/github-readme-stats"><img align="center" img height="180em src="https://github-readme-stats.vercel.app/api?username=trickytheonlyone&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/trickytheonlyone/github-readme-stats"><img align="center" img height="180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickytheonlyone&layout=compact&theme=buefy&hide_border=true" /></a> |
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trickytheonlyone&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickytheonlyone&layout=compact&langs_count=7&theme=buefy"/>
 | ------------- | ------------- |
 
 
@@ -26,8 +28,9 @@
   
 </p>
 
-<div> 
- 
+
+  ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
+
     
 ## Contato 📢
 
@@ -46,4 +49,3 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
