@@ -2,15 +2,19 @@
 
 - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° Semestre na Universidade de Brasília
 - 📚 Estou aprendendo Python
-- 🤔 Estou procurando ajuda em CSS3/HTML5
+- 🤔 Estou procurando ajuda em CSS3/HTML5trickytheonlyone
 - 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API 
 
 
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trickytheonlyone&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickytheonlyone&layout=compact&langs_count=7&theme=buefy"/>
-| ------------- | ------------- |
+ <div>
 
+  <a href="https://github.com/trickytheonlyone">
+
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=trickytheonlyone&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickytheonlyone&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+
+</div>
 
 ## Skills 🎯
 <p align="center">
@@ -24,12 +28,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-  
+     
 </p>
-
-
-  ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
 
     
 ## Contato 📢
@@ -48,4 +48,6 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+  
+   ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
 
