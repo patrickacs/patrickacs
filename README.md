@@ -47,6 +47,11 @@
         <img  src="https://img.shields.io/badge/steam-%23100000.svg?&style=for-the-badge&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/profiles/76561197985226198/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/patrickyeey/">
+        <img  src="https://img.shields.io/badge/instagram-%23100000.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/patrickyeey/">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 </p>
   
    ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
