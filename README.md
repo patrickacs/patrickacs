@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° Semestre na Universidade de Brasília
 - 📚 Estou aprendendo Python
-- 🤔 Estou procurando ajuda em CSS3/HTML5trickytheonlyone
+- 🤔 Estou procurando ajuda em CSS3/HTML5
 - 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API 
 
 
