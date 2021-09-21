@@ -56,5 +56,7 @@
   
    ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
  
+ <p align="center">
+  
    ![Visitor Count](https://profile-counter.glitch.me/trickytheonlyone/count.svg)
 
