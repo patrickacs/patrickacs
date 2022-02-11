@@ -8,11 +8,11 @@
 
  <div>
 
-  <a href="https://github.com/trickytheonlyone">
+  <a href="https://github.com/patrickacs">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=trickytheonlyone&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickytheonlyone&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 </div>
 
@@ -38,8 +38,8 @@
 ## Contato 📢
 
 <p align="center">
-    <a href="https://github.com/trickytheonlyone">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/trickytheonlyone">
+    <a href="https://github.com/patrickacs">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/patrickacs">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:pandersomm@gmail.com">
@@ -57,7 +57,7 @@
  
 </p>
   
-   ![Snake animation](https://github.com/trickytheonlyone/trickytheonlyone/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
  
  <p align="center">
   
