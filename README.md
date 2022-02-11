@@ -46,8 +46,8 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pandersomm@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://steamcommunity.com/profiles/76561197985226198/">
-        <img  src="https://img.shields.io/badge/steam-%23100000.svg?&style=for-the-badge&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/profiles/76561197985226198/">
+    <a href="https://www.linkedin.com/in/patrickasantos/">
+        <img  src="https://img.shields.io/badge/linkedin-%23100000.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/patrickasantos/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/patrickyeey/">
