@@ -1,9 +1,8 @@
-### Olá, Bem vindos ao meu GitHub 🛫🧭🌎
+### Hello, Welcome to my GitHub! 🛫🧭🌎
 
-- 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 2° Semestre na Universidade de Brasília
-- 📚 Estou aprendendo CSS3/HTML5
-- 🤔 Tenho atualmente 19 anos
-- 👨‍💻 Interesse em Javascript, Django, Java, CSS, HTML, API 
+- 👨‍🎓 Studying Software Engeneering, I am currently attending the 2nd Semester at the University of Brasilia
+- 📚 I'm Learning C/C++
+- 👨‍💻 I Already know: Javascript, Django, Java, CSS, HTML, API 
 
 
  <div>
