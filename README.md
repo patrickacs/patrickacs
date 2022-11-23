@@ -1,6 +1,6 @@
 ### Hello, Welcome to my GitHub! 🛫🧭🌎
 
-- 👨‍🎓 Studying Software Engeneering, I am currently attending the 2nd Semester at the University of Brasilia
+- 👨‍🎓 Studying Software Engeneering, I am currently attending the 4rth Semester at the University of Brasilia
 - 📚 I'm Learning C/C++
 - 👨‍💻 I Already know: Javascript, Django, Java, CSS, HTML, API 
 
