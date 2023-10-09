@@ -13,6 +13,8 @@
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
+  ![info](https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true)
+
 </div>
 
 ## Skills 🎯
@@ -64,8 +66,6 @@
  
 ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=github_dark)
  
-![info](https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true)
-
 ![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
 
 </p>
