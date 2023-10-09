@@ -57,13 +57,7 @@
 </p>
   
    ![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
- 
 
-    <br>
-   
-   ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=github_dark)
-    
-   ![info](https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true)
    
  <p align="center">
  
