@@ -56,8 +56,18 @@
  
 </p>
   
-   ![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
 
+ <br>
+
+![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=github_dark)
+ 
+![info](https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true)
+
+<img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/duyu09/Duyu09/assets/92843163/69b0539d-c1b3-45e7-b6d3-bcee979aa25a" alt="Rigorous! Critical! Striving!" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
+
+<br>
    
  <p align="center">
  
