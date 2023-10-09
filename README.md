@@ -58,6 +58,6 @@
   
    ![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
  
-  <a href="http://www.github.com/patrickacs"><img height="277em" src="https://activity-graph.herokuapp.com/graph?username=patrickacs&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
  <p align="center">
  
