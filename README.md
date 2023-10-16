@@ -1,22 +1,17 @@
 ### Hello, Welcome to my GitHub! 🛫🧭🌎
 
-- 👨‍🎓 Studying Software Engeneering, I am currently attending the 4rth Semester at the University of Brasilia
+- 👨‍🎓 Studying Software Engineering, I am currently attending the 4th Semester at the University of Brasilia
 - 📚 I'm Learning C/C++
 - 👨‍💻 I Already know: Javascript, Django, Java, CSS, HTML, API 
 
-
- <div>
- <p align="center">
+<div align="center"> <!-- Adicione align="center" aqui -->
   <a href="https://github.com/patrickacs">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patrickacs&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+  </a>
+</div>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
- 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patrickacs&theme=chartreuse-dark" alt="GitHub Streak" /></a>
-  
- </p>
- </div>
 
 ## Skills 🎯
 <p align="center">
@@ -62,14 +57,9 @@
  
  ## Dasbhoards 📢
  
-<br>
 <p align="center">
- 
-![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=github_dark)
- 
-![Snake animation](https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=github_dark" alt="info">
+  <img src="https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
-<br>
 
  
