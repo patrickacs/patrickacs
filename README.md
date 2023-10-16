@@ -13,7 +13,8 @@
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
-  ![info](https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patrickacs&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+  
 </p>
 </div>
 
