@@ -2,13 +2,15 @@
 
 - 👨‍🎓 Studying Software Engineering, I am currently attending the 4th Semester at the University of Brasilia
 - 📚 I'm Learning C/C++
-- 👨‍💻 I Already know: Javascript, Django, Java, CSS, HTML, API 
+- 👨‍💻 I Already know: Javascript, Django, Java, CSS, HTML, API
+  
 
 <div align="center"> <!-- Adicione align="center" aqui -->
   <a href="https://github.com/patrickacs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patrickacs&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patrickacs&theme=chartreuse-dark&border_radius=7&card_width=680" alt="GitHub Streak" /></a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=chartreuse_dark" alt="info">  
   </a>
 </div>
 
@@ -32,7 +34,7 @@
      
 </p>
     
-## Contato 📢
+## Contact 📢
 
 <p align="center">
     <a href="https://github.com/patrickacs">
@@ -55,11 +57,10 @@
 </p>
   
  
- ## Dasbhoards 📢
+ ## Contributions 📢
  
 <p align="center">
   <img src="https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=chartreuse_dark" alt="info">
 </p>
 
  
