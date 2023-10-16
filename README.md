@@ -6,7 +6,7 @@
 
 
  <div>
-
+ <p align="center">
   <a href="https://github.com/patrickacs">
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
   ![info](https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true)
-
+</p>
 </div>
 
 ## Skills 🎯
