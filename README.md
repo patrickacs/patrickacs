@@ -1,9 +1,23 @@
-### Hello, Welcome to my GitHub! 🛫🧭🌎
+## 👋 Welcome to My GitHub Profile! 🌟
 
-- 👨‍🎓 Studying Software Engineering, I am currently attending the 4th Semester at the University of Brasilia
-- 📚 I'm Learning C/C++
-- 👨‍💻 I Already know: Javascript, Django, Java, CSS, HTML, API
+I'm Patrick, a passionate UI/UX Designer and Frontend Developer based in Brasília, Brazil. 🌆
+
+### 🎓 Academic Journey
+
+- 📚 Currently in my 5th Semester, pursuing a degree in Software Engineering at the University of Brasilia.
+- 💡 Continuously learning and exploring the world of UI/UX and frontend development.
   
+### 💼 Professional Focus
+
+- 🎨 Specializing in UI/UX design to create visually appealing and user-friendly experiences.
+- 💻 Proficient in a variety of technologies and languages, including:
+    - Frontend Development: HTML, CSS, JavaScript
+    - Frameworks: React
+    - Design Tools: Figma, Adobe XD
+    - Learning: Expanding my skills in C/C++
+      
+
+---
 
 <div align="center"> <!-- Adicione align="center" aqui -->
   <a href="https://github.com/patrickacs">
@@ -14,6 +28,7 @@
   </a>
 </div>
 
+---
 
 ## Skills 🎯
 <p align="center">
@@ -33,6 +48,14 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      
 </p>
+
+
+ ## Contributions 📢
+ 
+<p align="center">
+  <img src="https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+---
     
 ## Contact 📢
 
@@ -56,11 +79,4 @@
  
 </p>
   
- 
- ## Contributions 📢
- 
-<p align="center">
-  <img src="https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
  
