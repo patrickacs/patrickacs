@@ -13,7 +13,7 @@ I'm Patrick, a passionate UI/UX Designer and Frontend Developer based in Brasíl
 - 💻 Proficient in a variety of technologies and languages, including:
     - Frontend Development: HTML, CSS, JavaScript
     - Frameworks: React
-    - Design Tools: Figma, Adobe XD
+    - Design Tools: Figma, Adobe XD, Illustrator, Photoshop
     - Learning: Expanding my skills in C/C++
       
 
