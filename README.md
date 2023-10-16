@@ -62,20 +62,22 @@ I'm Patrick, a passionate UI/UX Designer and Frontend Developer based in Brasíl
 
 <p align="center">
     <a href="https://github.com/patrickacs">
-        <img src="https://img.shields.io/badge/github-%23100000.svg?style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/patrickacs" style="height: 40px;">
+        <img src="https://img.shields.io/badge/github-%23100000.svg?style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/patrickacs" style="height: 40px; border-radius: 20px;">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:pandersomm@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pandersomm@gmail.com" style="height: 40px;">
+        <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pandersomm@gmail.com" style="height: 40px; border-radius: 20px;">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/patrickasantos/">
-        <img src="https://img.shields.io/badge/linkedin-%23100000.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/patrickasantos/" style="height: 40px;">
+        <img src="https://img.shields.io/badge/linkedin-%23100000.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/patrickasantos/" style="height: 40px; border-radius: 20px;">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/patrickyeey/">
-        <img src="https://img.shields.io/badge/instagram-%23100000.svg?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/patrickyeey/" style="height: 40px;">
+        <img src="https://img.shields.io/badge/instagram-%23100000.svg?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/patrickyeey/" style="height: 40px; border-radius: 20px;">
     </a>
+</p>
+
 </p>
 
   
