@@ -24,7 +24,7 @@ I'm Patrick, a passionate UI/UX Designer and Frontend Developer based in Brasíl
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patrickacs&theme=chartreuse-dark&border_radius=7&card_width=680" alt="GitHub Streak" /></a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=chartreuse_dark" alt="info">  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=chartreuse_dark&border_radius=7" alt="info">  
   </a>
 </div>
 
