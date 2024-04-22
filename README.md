@@ -4,7 +4,7 @@ I'm Patrick, a passionate UI/UX Designer and Frontend Developer based in Brasíl
 
 ### 🎓 Academic Journey
 
-- 📚 Currently in my 5th Semester, pursuing a degree in Software Engineering at the University of Brasilia.
+- 📚 Currently in my 7th Semester, pursuing a degree in Software Engineering at the University of Brasilia.
 - 💡 Continuously learning and exploring the world of UI/UX and frontend development.
   
 ### 💼 Professional Focus
