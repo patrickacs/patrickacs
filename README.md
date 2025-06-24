@@ -42,7 +42,7 @@
 
 <!-- Streak Stats - Galaxy Theme -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=dark&hide_border=true&stroke=0000&background=0a192f&ring=6AD3F5&fire=9BB5FF&currStreakLabel=6AD3F5&sideLabels=9BB5FF&dates=8892b0" alt="patrickacs" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=patrickacs&theme=dark&hide_border=true&background=0A192F&ring=6AD3F5&fire=9BB5FF&currStreakLabel=6AD3F5&sideLabels=9BB5FF&currStreakNum=FFFFFF&dates=8892B0" alt="GitHub Streak" width="95%" />
 </div>
 
 <br>
@@ -92,9 +92,24 @@
 
 <br>
 
-<!-- Random Dev Quote - Dark Theme -->
+<!-- Programming Philosophy Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote_color=6AD3F5&text_color=9BB5FF" alt="Random Dev Quote" />
+  <br>
+  <table>
+    <tr>
+      <td>
+        <img width="60px" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP"/>
+      </td>
+      <td>
+        <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
+        <b>— Harold Abelson, Structure and Interpretation of Computer Programs</b>
+      </td>
+      <td>
+        <img width="60px" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP"/>
+      </td>
+    </tr>
+  </table>
+  <br>
 </div>
 
 <br>
