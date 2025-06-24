@@ -42,7 +42,11 @@
 
 <!-- Streak Stats - Galaxy Theme -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=patrickacs&theme=dark&hide_border=true&background=0A192F&ring=6AD3F5&fire=9BB5FF&currStreakLabel=6AD3F5&sideLabels=9BB5FF&currStreakNum=FFFFFF&dates=8892B0" alt="GitHub Streak" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=patrickacs&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0A192F&stroke=6AD3F5&ring=6AD3F5&fire=9BB5FF&currStreakNum=6AD3F5&sideNums=9BB5FF&currStreakLabel=9BB5FF&sideLabels=8892B0&dates=8892B0">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=patrickacs&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=patrickacs&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0A192F&stroke=6AD3F5&ring=6AD3F5&fire=9BB5FF&currStreakNum=6AD3F5&sideNums=9BB5FF&currStreakLabel=9BB5FF&sideLabels=8892B0&dates=8892B0" width="95%">
+  </picture>
 </div>
 
 <br>
