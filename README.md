@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Patrick%20Anderson&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Senior%20UI/UX%20Engineer&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Patrick%20Anderson&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20Software%20Engineer%20•%20UI/UX%20Focused&descAlignY=51&descAlign=62" width="100%" />
   
   <!-- Dynamic Typing -->
   <a href="https://git.io/typing-svg">
@@ -15,10 +15,14 @@
   </p>
 </div>
 
+<br>
+
 <!-- 3D Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickacs&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 </div>
+
+<br>
 
 <!-- Tech Stack with Animation -->
 <h2 align="center">⚡ Tech Stack</h2>
@@ -26,31 +30,47 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,figma,python,docker&theme=dark" />
 </div>
 
+<br>
+
 <!-- GitHub Stats in Grid -->
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F5&icon_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&hide_border=true&title_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<br>
+
 <!-- Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5" alt="patrickacs" width="95%" />
 </div>
+
+<br>
 
 <!-- Trophy Display -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=patrickacs&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
+<br>
+
 <!-- 3D Contributions Calendar -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickacs&theme=github_dark" alt="Contribution Graph" width="95%" />
 </div>
 
-<!-- Snake Animation -->
+<br>
+
+<!-- Snake Animation Alternative -->
 <div align="center">
-  <img src="https://github.com/patrickacs/patrickacs/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<br>
 
 <!-- Current Status -->
 <div align="center">
@@ -70,12 +90,14 @@
   </table>
 </div>
 
+<br>
+
 <!-- Random Dev Quote -->
 <div align="center">
-  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-  <br>
 </div>
+
+<br>
 
 <!-- Connect Section -->
 <div align="center">
@@ -101,5 +123,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-yellow?style=flat-square&labelColor=0d1117" />
 </div>
 
-<!-- Wave Footer -->
+<br>
+
+<!-- Wave Footer - Same color as header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
