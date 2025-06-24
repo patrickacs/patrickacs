@@ -1,6 +1,38 @@
 <div align="center">
   
-  <!-- Streak Stats -->
+  <!-- Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Patrick%20Anderson&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Senior%20UI/UX%20Engineer&descAlignY=51&descAlign=62" width="100%" />
+  
+  <!-- Dynamic Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Creating+experiences+that+matter.;Where+design+meets+functionality.;Let's+build+something+amazing." alt="Typing SVG" />
+  </a>
+
+  <!-- Animated Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=patrickacs&label=Profile%20views&color=0e75b6&style=flat-square" alt="patrickacs" />
+    <img src="https://img.shields.io/github/followers/patrickacs?label=Followers&style=social" alt="followers" />
+  </p>
+</div>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickacs&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+</div>
+
+<!-- Tech Stack with Animation -->
+<h2 align="center">⚡ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,figma,python,docker&theme=dark" />
+</div>
+
+<!-- GitHub Stats in Grid -->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F5&icon_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&hide_border=true&title_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<!-- Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickacs&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5" alt="patrickacs" width="95%" />
 </div>
@@ -70,36 +102,4 @@
 </div>
 
 <!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" /> Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Patrick%20Anderson&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Senior%20UI/UX%20Engineer&descAlignY=51&descAlign=62" width="100%" />
-  
-  <!-- Dynamic Typing -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Creating+experiences+that+matter.;Where+design+meets+functionality.;Let's+build+something+amazing." alt="Typing SVG" />
-  </a>
-
-  <!-- Animated Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=patrickacs&label=Profile%20views&color=0e75b6&style=flat-square" alt="patrickacs" />
-    <img src="https://img.shields.io/github/followers/patrickacs?label=Followers&style=social" alt="followers" />
-  </p>
-</div>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickacs&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
-</div>
-
-<!-- Tech Stack with Animation -->
-<h2 align="center">⚡ Tech Stack</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,figma,python,docker&theme=dark" />
-</div>
-
-<!-- GitHub Stats in Grid -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F5&icon_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacs&layout=compact&hide_border=true&title_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
