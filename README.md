@@ -19,11 +19,19 @@
 
 ## <samp>001 &nbsp;·&nbsp; INDEX</samp>
 
-I build products end to end — from the Kubernetes and Hyperledger Fabric infrastructure that runs them, to the interfaces people actually enjoy using.
+I'm a Full Stack Software Engineer about to graduate in Software Engineering from the University of Brasília. I build software end to end — from the infrastructure that runs it to the interfaces people actually enjoy using.
 
-Right now I'm a **Full-Stack Developer at BrBPO**, where I ship a multi-tenant SaaS that provisions isolated blockchain networks self-service — a setup that used to take days now takes minutes. Before that, four years across front-end architecture, design systems and crypto products.
+My recent work spans the full stack and beyond it. I've architected a multi-tenant SaaS platform that provisions isolated Hyperledger Fabric blockchain networks self-service, orchestrating deployment pipelines in NestJS against the Kubernetes API and cutting network setup from days to minutes. On the front end, I deliver accessible, high-performance React/Next.js applications with real-time features, role-based dashboards, and internationalization.
 
-I care about two things most engineers treat as separate concerns: **what it costs to run** and **how it feels to use**.
+What sets me apart is that I don't stop at "it works." I bring a strong UI/UX foundation to engineering — thinking through user journeys and flows, not just implementing designs. That dual vision lets me ship products that are technically solid and genuinely good to use.
+Technical focus:
+
+- Front-end: React, Next.js, TypeScript, responsive and accessible UI, design systems
+- Back-end: NestJS, Node.js, RESTful APIs, JWT/RBAC auth
+- Infrastructure & DevOps: Kubernetes, Ansible, CI/CD, CloudNativePG, nginx
+- Blockchain: Hyperledger Fabric v2 (chaincode lifecycle, asset tokenization)
+- Design: Figma, Adobe XD, Design Thinking, User-Centered Design
+I'm driven by using technology to solve real problems and I'm always open to new challenges where engineering quality and user experience both matter.
 
 <samp>B.Sc. Software Engineering · University of Brasília · 2026</samp>
 
