@@ -19,19 +19,11 @@
 
 ## <samp>001 &nbsp;·&nbsp; INDEX</samp>
 
-I'm a Full Stack Software Engineer about to graduate in Software Engineering from the University of Brasília. I build software end to end — from the infrastructure that runs it to the interfaces people actually enjoy using.
+I build products end to end — from the Kubernetes and Hyperledger Fabric infrastructure that runs them, to the interfaces people actually enjoy using.
 
-My recent work spans the full stack and beyond it. I've architected a multi-tenant SaaS platform that provisions isolated Hyperledger Fabric blockchain networks self-service, orchestrating deployment pipelines in NestJS against the Kubernetes API and cutting network setup from days to minutes. On the front end, I deliver accessible, high-performance React/Next.js applications with real-time features, role-based dashboards, and internationalization.
+Right now I'm a **Full-Stack Developer at BrBPO**, where I ship a multi-tenant SaaS that provisions isolated blockchain networks self-service — a setup that used to take days now takes minutes. Before that, four years across front-end architecture, design systems and crypto products.
 
-What sets me apart is that I don't stop at "it works." I bring a strong UI/UX foundation to engineering — thinking through user journeys and flows, not just implementing designs. That dual vision lets me ship products that are technically solid and genuinely good to use.
-Technical focus:
-
-- Front-end: React, Next.js, TypeScript, responsive and accessible UI, design systems
-- Back-end: NestJS, Node.js, RESTful APIs, JWT/RBAC auth
-- Infrastructure & DevOps: Kubernetes, Ansible, CI/CD, CloudNativePG, nginx
-- Blockchain: Hyperledger Fabric v2 (chaincode lifecycle, asset tokenization)
-- Design: Figma, Adobe XD, Design Thinking, User-Centered Design
-I'm driven by using technology to solve real problems and I'm always open to new challenges where engineering quality and user experience both matter.
+I care about two things most engineers treat as separate concerns: **what it costs to run** and **how it feels to use**.
 
 <samp>B.Sc. Software Engineering · University of Brasília · 2026</samp>
 
@@ -116,6 +108,11 @@ I'm driven by using technology to solve real problems and I'm always open to new
 
 ## <samp>005 &nbsp;·&nbsp; METRICS</samp>
 
+<!-- ─────────────────────────────────────────────────────────────────────
+     SELF-HOST: troque  github-readme-stats.vercel.app  pelo seu dominio
+     Vercel nos 2 blocos abaixo. Enquanto nao trocar, esses 2 cards vao
+     quebrar de vez em quando (rate limit da instancia publica).
+     ───────────────────────────────────────────────────────────────────── -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=patrickacs&show_icons=true&count_private=true&border_radius=0&hide_title=true&card_width=450&bg_color=0D0C0B&text_color=8C8378&icon_color=FF6A3D&border_color=2E2924&ring_color=FF6A3D&cache_seconds=86400">
@@ -129,30 +126,27 @@ I'm driven by using technology to solve real problems and I'm always open to new
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=patrickacs&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=0D0C0B&border=2E2924&stroke=2E2924&ring=FF6A3D&fire=FF6A3D&currStreakNum=F5EDE1&currStreakLabel=FF6A3D&sideNums=F5EDE1&sideLabels=8C8378&dates=6B6259">
+    <img width="72%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=patrickacs&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=FAF2E7&border=DCCEB8&stroke=DCCEB8&ring=C1440E&fire=C1440E&currStreakNum=14110E&currStreakLabel=C1440E&sideNums=14110E&sideLabels=57534E&dates=A8A29E">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=patrickacs&custom_title=Contribution%20Activity&hide_border=true&radius=0&area=true&bg_color=0D0C0B&color=F5EDE1&title_color=F5EDE1&line=FF6A3D&point=F5EDE1&area_color=FF6A3D">
     <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=patrickacs&custom_title=Contribution%20Activity&hide_border=true&radius=0&area=true&bg_color=FAF2E7&color=14110E&title_color=14110E&line=C1440E&point=14110E&area_color=C1440E">
   </picture>
 </div>
 
+<!-- Hoje so existe a versao clara no branch `output`. Depois de rodar o
+     workflow novo (que gera a `-dark` tambem), troque este bloco por:
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake-dark.svg">
+       <img width="100%" alt="Contribution grid" src="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake.svg">
+     </picture>                                                          -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" alt="Contribution grid" src="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="100%" alt="Contribution grid" src="https://raw.githubusercontent.com/patrickacs/patrickacs/output/github-contribution-grid-snake.svg">
 </div>
-
-<details>
-<summary><samp><b>&nbsp;More numbers&nbsp;</b></samp></summary>
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=patrickacs&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=0D0C0B&border=2E2924&stroke=2E2924&ring=FF6A3D&fire=FF6A3D&currStreakNum=F5EDE1&currStreakLabel=FF6A3D&sideNums=F5EDE1&sideLabels=8C8378&dates=6B6259">
-    <img width="70%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=patrickacs&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=FAF2E7&border=DCCEB8&stroke=DCCEB8&ring=C1440E&fire=C1440E&currStreakNum=14110E&currStreakLabel=C1440E&sideNums=14110E&sideLabels=57534E&dates=A8A29E">
-  </picture>
-  <br><br>
-  <img width="100%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=patrickacs&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
-</div>
-</details>
 
 <br>
 
