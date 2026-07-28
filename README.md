@@ -1,10 +1,10 @@
-<!-- patrickacs profile README - assets em /assets - trocar /main/ se a branch default for master -->
+<!-- patrickacs profile README -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/assets/hero-light.svg">
-    <img alt="Patrick Anderson — Full-Stack Software Engineer" src="https://raw.githubusercontent.com/patrickacs/patrickacs/main/assets/hero-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/hero-light.svg">
+    <img alt="Patrick Anderson — Full-Stack Software Engineer" src="https://raw.githubusercontent.com/patrickacs/patrickacs/main/hero-light.svg" width="100%">
   </picture>
 </div>
 
@@ -31,23 +31,52 @@ I care about two things most engineers treat as separate concerns: **what it cos
 
 ## <samp>002 &nbsp;·&nbsp; DISCIPLINES</samp>
 
-|  |  |  |
-| :--- | :--- | :--- |
-| <samp>**001**</samp> | **FRONT-END ENGINEERING** | Accessible, high-performance interfaces in React, Next.js and TypeScript — design systems and real-time features that scale. |
-| <samp>**002**</samp> | **UI / UX ENGINEERING** | Engineering driven by user journeys, not just mockups — from flow to pixel, motion included. |
-| <samp>**003**</samp> | **BACK-END &amp; APIS** | Services in NestJS and Node.js — REST, JWT/RBAC auth, queues and clean integrations. |
-| <samp>**004**</samp> | **CLOUD &amp; DEVOPS** | Shipping and running software on Kubernetes — CI/CD, infrastructure as code, reliability. |
-| <samp>**005**</samp> | **BLOCKCHAIN** | Permissioned networks on Hyperledger Fabric v2 — chaincode lifecycle and on-chain asset tokenization. |
+<table>
+<tr>
+<td width="60"><samp><b>001</b></samp></td>
+<td width="220"><b>FRONT-END ENGINEERING</b></td>
+<td>Accessible, high-performance interfaces in React, Next.js and TypeScript &mdash; design systems and real-time features that scale.</td>
+</tr>
+<tr>
+<td width="60"><samp><b>002</b></samp></td>
+<td width="220"><b>UI / UX ENGINEERING</b></td>
+<td>Engineering driven by user journeys, not just mockups &mdash; from flow to pixel, motion included.</td>
+</tr>
+<tr>
+<td width="60"><samp><b>003</b></samp></td>
+<td width="220"><b>BACK-END &amp; APIS</b></td>
+<td>Services in NestJS and Node.js &mdash; REST, JWT/RBAC auth, queues and clean integrations.</td>
+</tr>
+<tr>
+<td width="60"><samp><b>004</b></samp></td>
+<td width="220"><b>CLOUD &amp; DEVOPS</b></td>
+<td>Shipping and running software on Kubernetes &mdash; CI/CD, infrastructure as code, reliability.</td>
+</tr>
+<tr>
+<td width="60"><samp><b>005</b></samp></td>
+<td width="220"><b>BLOCKCHAIN</b></td>
+<td>Permissioned networks on Hyperledger Fabric v2 &mdash; chaincode lifecycle and on-chain asset tokenization.</td>
+</tr>
+</table>
 
 <br>
 
 ## <samp>003 &nbsp;·&nbsp; STACK</samp>
 
-|  |  |
-| :--- | :--- |
-| <samp>**FRONT**</samp> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,figma&theme=light" height="42"> |
-| <samp>**BACK**</samp> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,redis,prisma,python&theme=light" height="42"> |
-| <samp>**INFRA**</samp> | <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,ansible,githubactions,gcp&theme=light" height="42"> |
+<table>
+<tr>
+<td width="90"><samp><b>FRONT</b></samp></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,figma&theme=light" height="42"></td>
+</tr>
+<tr>
+<td width="90"><samp><b>BACK</b></samp></td>
+<td><img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,redis,prisma,python&theme=light" height="42"></td>
+</tr>
+<tr>
+<td width="90"><samp><b>INFRA</b></samp></td>
+<td><img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,ansible,githubactions,gcp&theme=light" height="42"></td>
+</tr>
+</table>
 
 <samp>Also: Hyperledger Fabric v2 · Helm · CloudNativePG · GSAP · Framer Motion</samp>
 
@@ -55,11 +84,23 @@ I care about two things most engineers treat as separate concerns: **what it cos
 
 ## <samp>004 &nbsp;·&nbsp; SELECTED WORK</samp>
 
-|  |  |  |
-| :--- | :--- | :--- |
-| <samp>**001**</samp> | **Blockchain-as-a-Service Platform** <br> <samp>BrBPO · 2025 →</samp> | Self-service provisioning of isolated Hyperledger Fabric networks behind a 5-step wizard. An 11-step NestJS pipeline orchestrates Ansible against the Kubernetes API, with SSE log streaming and namespace-per-organization isolation. <br> <samp>`NestJS` `Kubernetes` `Fabric v2` `Ansible` `Helm`</samp> |
-| <samp>**002**</samp> | **Design System &amp; Component Library** <br> <samp>BrBPO · 2023–2025</samp> | Became the org-wide standard: +20% engagement, 40% faster feature delivery, 25% shorter code-review cycles across a 3,000-person org. <br> <samp>`React` `TypeScript` `Next.js` `a11y`</samp> |
-| <samp>**003**</samp> | **[patrickacs.com](https://www.patrickacs.com)** <br> <samp>Personal · 2024 →</samp> | Portfolio built as a performance exercise — WebGL, scroll-driven motion and i18n without giving up Lighthouse scores. <br> <samp>`Next.js` `GSAP` `Three.js`</samp> |
+<table>
+<tr>
+<td width="60"><samp><b>001</b></samp></td>
+<td width="260"><b>Blockchain-as-a-Service Platform</b><br><samp>BrBPO &middot; 2025 &rarr;</samp></td>
+<td>Self-service provisioning of isolated Hyperledger Fabric networks behind a 5-step wizard. An 11-step NestJS pipeline orchestrates Ansible against the Kubernetes API, with SSE log streaming and namespace-per-organization isolation.<br><samp><code>NestJS</code> <code>Kubernetes</code> <code>Fabric v2</code> <code>Ansible</code> <code>Helm</code></samp></td>
+</tr>
+<tr>
+<td width="60"><samp><b>002</b></samp></td>
+<td width="260"><b>Design System &amp; Component Library</b><br><samp>BrBPO &middot; 2023&ndash;2025</samp></td>
+<td>Became the org-wide standard: +20% engagement, 40% faster feature delivery, 25% shorter code-review cycles across a 3,000-person org.<br><samp><code>React</code> <code>TypeScript</code> <code>Next.js</code> <code>a11y</code></samp></td>
+</tr>
+<tr>
+<td width="60"><samp><b>003</b></samp></td>
+<td width="260"><b><a href="https://www.patrickacs.com">patrickacs.com</a></b><br><samp>Personal &middot; 2024 &rarr;</samp></td>
+<td>Portfolio built as a performance exercise &mdash; WebGL, scroll-driven motion and i18n without giving up Lighthouse scores.<br><samp><code>Next.js</code> <code>GSAP</code> <code>Three.js</code></samp></td>
+</tr>
+</table>
 
 <samp>→ Full case studies at **[patrickacs.com/work](https://www.patrickacs.com/work)**</samp>
 
@@ -109,11 +150,20 @@ I care about two things most engineers treat as separate concerns: **what it cos
 
 ## <samp>006 &nbsp;·&nbsp; NOW</samp>
 
-|  |  |
-| :--- | :--- |
-| <samp>**BUILDING**</samp> | Multi-tenant blockchain provisioning at scale — and the developer experience around it |
-| <samp>**LEARNING**</samp> | WebGL &amp; shader work, platform engineering patterns |
-| <samp>**THINKING ABOUT**</samp> | Where infrastructure cost and interface quality are actually the same decision |
+<table>
+<tr>
+<td width="190"><samp><b>BUILDING</b></samp></td>
+<td>Multi-tenant blockchain provisioning at scale &mdash; and the developer experience around it</td>
+</tr>
+<tr>
+<td width="190"><samp><b>LEARNING</b></samp></td>
+<td>WebGL &amp; shader work, platform engineering patterns</td>
+</tr>
+<tr>
+<td width="190"><samp><b>THINKING ABOUT</b></samp></td>
+<td>Where infrastructure cost and interface quality are actually the same decision</td>
+</tr>
+</table>
 
 <br>
 
@@ -121,19 +171,31 @@ I care about two things most engineers treat as separate concerns: **what it cos
 
 Open to full-stack and platform roles, remote or Brasília-based. The fastest way to reach me is email — I answer everything.
 
-|  |  |
-| :--- | :--- |
-| <samp>**EMAIL**</samp> | [pandersomm@gmail.com](mailto:pandersomm@gmail.com) |
-| <samp>**LINKEDIN**</samp> | [/in/patrickasantos](https://www.linkedin.com/in/patrickasantos/) |
-| <samp>**PORTFOLIO**</samp> | [patrickacs.com](https://www.patrickacs.com) |
-| <samp>**BEHANCE**</samp> | [/patrickandeson](https://www.behance.net/patrickandeson) |
+<table>
+<tr>
+<td width="140"><samp><b>EMAIL</b></samp></td>
+<td><a href="mailto:pandersomm@gmail.com">pandersomm@gmail.com</a></td>
+</tr>
+<tr>
+<td width="140"><samp><b>LINKEDIN</b></samp></td>
+<td><a href="https://www.linkedin.com/in/patrickasantos/">/in/patrickasantos</a></td>
+</tr>
+<tr>
+<td width="140"><samp><b>PORTFOLIO</b></samp></td>
+<td><a href="https://www.patrickacs.com">patrickacs.com</a></td>
+</tr>
+<tr>
+<td width="140"><samp><b>BEHANCE</b></samp></td>
+<td><a href="https://www.behance.net/patrickandeson">/patrickandeson</a></td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/assets/footer-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/assets/footer-light.svg">
-    <img alt="Make it happen — patrickacs.com" src="https://raw.githubusercontent.com/patrickacs/patrickacs/main/assets/footer-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickacs/patrickacs/main/footer-light.svg">
+    <img alt="Make it happen — patrickacs.com" src="https://raw.githubusercontent.com/patrickacs/patrickacs/main/footer-light.svg" width="100%">
   </picture>
 </div>
