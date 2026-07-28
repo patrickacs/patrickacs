@@ -1,10 +1,4 @@
-<!--
-═══════════════════════════════════════════════════════════════════════════
-  PATRICK ANDERSON · github.com/patrickacs
-  Assets live in /assets. If your default branch is not `main`,
-  replace `/main/` in the raw URLs below.
-═══════════════════════════════════════════════════════════════════════════
--->
+<!-- patrickacs profile README - assets em /assets - trocar /main/ se a branch default for master -->
 
 <div align="center">
   <picture>
