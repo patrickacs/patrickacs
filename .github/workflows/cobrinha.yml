@@ -1,23 +1,31 @@
-name: Generate Datas
+name: contribution grid
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate snake
+        uses: Platane/snk@v3
+        id: snake
         with:
-          github_user_name: trickytheonlyone
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          # Filenames match the ones already referenced in README.md.
+          # If the custom colours ever error out, just drop the &color_snake=... part.
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23C1440E
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF6A3D
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
