@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Make it happen - patrickacs.com">
+<title>Make it happen</title>
+<style><![CDATA[
+  .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .lbl{font-size:12px;letter-spacing:2.4px;fill:#8C8378}
+  .mq{font-size:26px;font-weight:700;letter-spacing:3px;fill:#F5EDE1}
+  .mqa{font-size:26px;font-weight:700;letter-spacing:3px;fill:#FF6A3D}
+  .rule{stroke:#2E2924;stroke-width:1}
+  .track{animation:slide 22s linear infinite}
+  @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-800px)}}
+]]></style>
+
+  <rect width="1200" height="120" fill="#0D0C0B"/>
+  <line class="rule" x1="0" y1="0.5" x2="1200" y2="0.5"/>
+
+  <clipPath id="cp"><rect x="0" y="14" width="1200" height="56"/></clipPath>
+  <g clip-path="url(#cp)">
+    <g class="track m">
+      <text class="mq" x="0" y="56">MAKE IT HAPPEN <tspan class="mqa">&#8212;</tspan> LET&#8217;S BUILD SOMETHING <tspan class="mqa">&#8212;</tspan> </text>
+      <text class="mq" x="800" y="56">MAKE IT HAPPEN <tspan class="mqa">&#8212;</tspan> LET&#8217;S BUILD SOMETHING <tspan class="mqa">&#8212;</tspan> </text>
+      <text class="mq" x="1600" y="56">MAKE IT HAPPEN <tspan class="mqa">&#8212;</tspan> LET&#8217;S BUILD SOMETHING <tspan class="mqa">&#8212;</tspan> </text>
+      <text class="mq" x="2400" y="56">MAKE IT HAPPEN <tspan class="mqa">&#8212;</tspan> LET&#8217;S BUILD SOMETHING <tspan class="mqa">&#8212;</tspan> </text>
+    </g>
+  </g>
+
+  <line class="rule" x1="60" y1="84" x2="1140" y2="84"/>
+  <g class="m">
+    <text class="lbl" x="60" y="108">&#169; PATRICK ANDERSON</text>
+    <text class="lbl" x="600" y="108" text-anchor="middle">BRASILIA &#8212; BRAZIL</text>
+    <text class="lbl" x="1140" y="108" text-anchor="end">PATRICKACS.COM</text>
+  </g>
+</svg>

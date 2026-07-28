@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Patrick Anderson - Full-Stack Software Engineer">
+<title>Patrick Anderson - Full-Stack Software Engineer</title>
+<style><![CDATA[
+  .s{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
+  .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .lbl{font-size:12px;letter-spacing:2.4px;fill:#8C8378}
+  .lbl-i{font-size:12px;letter-spacing:2.4px;fill:#F5EDE1}
+  .idx{font-size:12px;letter-spacing:1.6px;fill:#FF6A3D}
+  .disc{font-size:12.5px;letter-spacing:1.8px;fill:#F5EDE1}
+  .name{font-size:104px;font-weight:700;letter-spacing:-3px;fill:#F5EDE1}
+  .rule{stroke:#2E2924;stroke-width:1}
+  .grid{stroke:#F5EDE1;stroke-width:1;opacity:.05}
+
+  .draw{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.4s cubic-bezier(.16,1,.3,1) forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+
+  .up{opacity:0;animation:up .9s cubic-bezier(.16,1,.3,1) forwards}
+  .d1{animation-delay:.10s}.d2{animation-delay:.22s}.d3{animation-delay:.40s}
+  .d4{animation-delay:.48s}.d5{animation-delay:.56s}.d6{animation-delay:.64s}
+  .d7{animation-delay:.72s}.d8{animation-delay:.80s}.d9{animation-delay:.90s}
+  @keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+
+  .dot{fill:#FF6A3D;animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+
+  .w{font-size:12.5px;letter-spacing:2.4px;font-weight:700;fill:#FF6A3D;opacity:0}
+  .w1{animation:cyc 12s steps(1,end) infinite}
+  .w2{animation:cyc 12s steps(1,end) infinite -3s}
+  .w3{animation:cyc 12s steps(1,end) infinite -6s}
+  .w4{animation:cyc 12s steps(1,end) infinite -9s}
+  @keyframes cyc{0%{opacity:1}25%{opacity:0}100%{opacity:0}}
+]]></style>
+
+  <rect width="1200" height="420" fill="#0D0C0B"/>
+
+  <!-- structural grid -->
+  <g class="grid">
+    <line x1="60" y1="0" x2="60" y2="420"/>
+    <line x1="730" y1="0" x2="730" y2="420"/>
+    <line x1="1140" y1="0" x2="1140" y2="420"/>
+  </g>
+
+  <!-- top meta -->
+  <g class="m up d1">
+    <text class="lbl-i" x="60" y="58">FULL-STACK SOFTWARE ENGINEER</text>
+    <text class="lbl" x="1122" y="58" text-anchor="end">AVAILABLE FOR WORK</text>
+    <circle class="dot" cx="1136" cy="54" r="4"/>
+  </g>
+
+  <line class="rule draw" x1="60" y1="86" x2="1140" y2="86"/>
+
+  <!-- wordmark -->
+  <g class="s">
+    <text class="name up d2" x="56" y="226">PATRICK</text>
+    <text class="name up d3" x="56" y="326">ANDERSON</text>
+  </g>
+
+  <!-- disciplines -->
+  <g class="m">
+    <g class="up d4"><text class="idx" x="762" y="140">001</text><text class="disc" x="812" y="140">FRONT-END</text></g>
+    <g class="up d5"><text class="idx" x="762" y="176">002</text><text class="disc" x="812" y="176">UI / UX</text></g>
+    <g class="up d6"><text class="idx" x="762" y="212">003</text><text class="disc" x="812" y="212">BACK-END &amp; APIS</text></g>
+    <g class="up d7"><text class="idx" x="762" y="248">004</text><text class="disc" x="812" y="248">CLOUD &amp; DEVOPS</text></g>
+    <g class="up d8"><text class="idx" x="762" y="284">005</text><text class="disc" x="812" y="284">BLOCKCHAIN</text></g>
+    <text class="lbl up d9" x="762" y="330">BRASILIA, BR</text>
+    <text class="lbl up d9" x="762" y="348">15.7975&#176;S  47.8919&#176;W</text>
+  </g>
+
+  <line class="rule draw" x1="60" y1="360" x2="1140" y2="360"/>
+
+  <!-- footline -->
+  <g class="m up d9">
+    <text class="lbl" x="60" y="396">SOFTWARE BUILT TO BE</text>
+    <text class="w w1" x="310" y="396">FAST</text>
+    <text class="w w2" x="310" y="396">ACCESSIBLE</text>
+    <text class="w w3" x="310" y="396">SCALABLE</text>
+    <text class="w w4" x="310" y="396">LOVED</text>
+    <text class="lbl-i" x="1140" y="396" text-anchor="end">PATRICKACS.COM</text>
+  </g>
+</svg>
